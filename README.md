@@ -73,3 +73,6 @@ The API Routes are included and updated to provide the same functionality as the
 6. You need to create a .env file specifying your GOOGLE_PLACES_API_KEY= 
 7. The Google_Places_API_Key only requires the Google Places (New) API - you can disable all others. 
 8. Make sure you set restrictions on your Google API key, it uses a Server Action so you should be able to restrict it to just your domain (when hosted)
+9.  Add an import to the component
+10.  Add the component tag <AutocompleteComponent />
+
